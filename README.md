@@ -1,4 +1,4 @@
-Para Gerar uma nova api Ruby on Rails sem Minitest
+Para Gerar uma nova API Ruby on Rails sem Minitest
 ```shell
 docker-compose run --no-deps web rails new . --api --force --database=postgresql -T
 ```
